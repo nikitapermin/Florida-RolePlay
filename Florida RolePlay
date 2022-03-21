@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <!-- Site config -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- SEO -->
+        <title>Florida RolePlay</title>
+    <meta name="description" content="">
+
+    <!-- Site Icon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="hfile:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <link rel="manifest" href="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png">
+    <meta name="theme-color" content="#161616">
+
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#161616">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#21D4FD">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="https://avis-agency.ru/css/main.css?v=1.5.1">
+
+</head>
+<body class="scroll-y-none"> 
+
+    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(65243071, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/65243071" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+    <div id="mainMenu" class="main_menu">
+        <div class="container">
+    <div class="row">
+
+        <div class="col-lg-5 offset-lg-2 col-md-6">
+            <ul class="main_list mt-pc">
+                <li><a href="https://avis-agency.ru" class="link_anim">Главная</a></li>
+                <li><a href="https://avis-agency.ru/about-us" class="link_anim">Форум</a></li>
+                <li><a href="https://avis-agency.ru/portfolio/networking" class="link_anim ">Донат</a></li>
+                <!-- <li><a href="https://avis-agency.ru/blog" class="link_anim">Блог</a></li> -->
+                <li><a href="https://discord.gg/arcNp4JBDA" class="link_anim">Дискорд сервер</a></li>
+            </ul>
+            <!-- /.main_list -->
+        </div>
+        <!-- /.col-lg-5 offset-lg-2 -->
+
+
+
+        <div class="col-lg-3 text-md-right col-lg-4 col-md-6">
+            <ul class="social_list mt-5">
+                <li>
+                
+
+                </li>
+            </ul>
+            <!-- /.social_list -->
+        </div>
+        <!-- /.col-lg-3 -->
+
+    </div>
+    <!-- /.row -->
+
+    <div class="cancel_wrap">
+        <button type="button" class="cancel"><img src="https://avis-agency.ru/img/icons/close.svg" alt=""></button>
+    </div>
+    <!-- /.close -->
+</div>
+<!-- /.container -->    </div>
+    <!-- /#mainMenu.main_menu -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+                
+                <a class="navbar-brand" href="">
+                        <img src="" alt="">
+                </a>
+
+                <div class="">
+                    <div class="form-inline ml-auto">
+                        <div class="phone">
+                            <a href="tel:89013830852" class="link_anim fz18">(то если что меню) --> </a>
+                        </div>
+                        <!-- /.phone -->
+                        <button class="toggle-menu"><img src="https://avis-agency.ru/img/icons/hamburger.svg" alt=""></button>
+                    </div>
+                </div>
+
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <main id="main">
+            
+    <header id="welcome" class="home home-fixed">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-lg-5">
+                    <div class="content">
+                        <h1>Florida RolePlay</h1>
+
+                        <div class="actions actions-middle">
+                            <button data-toggle="modal" data-zakaz="Тут будет сылка на скачивание лаунчера" data-target="#zakaz" class="btn-accent default mr-4">Cкачать лаунчер</button>
+                        </div>
+                        <!-- /.action -->
+                    </div>
+                    <!-- /.content -->
+                </div>
+                <!-- /.col-lg-5 -->
+
+    <div class="background">
+        <img src="file:///C:/Users/%D1%8F%D1%87%D0%B0%D1%81/Downloads/Florida%20RolePlay.png" alt="">
+    </div>
+    <!-- /.background -->
+
+    </main>
+    <!-- /#main -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="zakaz" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content avis-a2-bg">
+                <div class="modal-body">
+
+                    <div class="text-center mb-3 mt-3">
+                        <h4 class="modal-title"> <span class="js-zakaz-title"></span></h4>
+                    </div>
+                    <!-- /.text-center -->
+
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+
+                    <div class="form-wrapper">
+                        <form id="ajaxOrder" method="POST" action="https://avis-agency.ru/order/send" class="status-form">
+                            <input type="hidden" name="_token" value="mpi4hqksEQMn3avP0w89aG8xbnjZ0iFSL1kXzvMY">                            <input type="hidden" class="js-zakaz-value" name="subject">
+
+    <!-- Theme Scripts -->
+    <script src="https://avis-agency.ru/js/common.js?v=2.5.0"></script>
+
+    <script>
+
+        $('#ajaxOrder').on('submit', function(e){
+            e.preventDefault();
+
+            $(this).addClass('status-form_loading');
+
+            $.ajax({
+                url: $(this).attr('action'),
+                method: $(this).attr('method'),
+                data: $(this).serialize(),
+            })
+            .done((response)=>{
+                $(this).removeClass('status-form_loading');
+                $('#zakaz').modal('hide');
+                $('#success2').modal('show');
+            })
+            .fail((jqXHR, exception)=>{
+                $(this).removeClass('status-form_loading');
+
+                if (jqXHR.status === 0)
+                    $('#errorStatus').html('Нет подключения к интернету');
+                else if (jqXHR.status == 404)
+                    $('#errorStatus').html('Ошибка 404. Запрашиваемая страница не найдена!');
+                else if (jqXHR.status == 500)
+                    $('#errorStatus').html('Ошибка сервера (500)');
+                else if (exception === 'parsererror')
+                    $('#errorStatus').html('Requested JSON parse failed.');
+                else if (exception === 'timeout')
+                    $('#errorStatus').html('Время ожидания ответа сервера истекло');
+                else if (exception === 'abort')
+                    $('#errorStatus').html('Запрос прерван.');
+                else
+                    $('#errorStatus').html('Неизвестная ошибка. Попробуйте перезагрузить и попробовать снова');
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready( function() {
+
+            var this_locate = document.location.href;
+
+            $(".main_list li a").each(function() {
+                if ($(this).attr("href") == this_locate) {
+                    $(this).addClass('active');
+                }
+            });
+
+            $(".service_list li a").each(function() {
+                if ($(this).attr("href") == this_locate) {
+                    $(this).addClass('active');
+                }
+            });
+
+        });
+    </script>
+
+    
+
+    
+
+</body>
+</html>
